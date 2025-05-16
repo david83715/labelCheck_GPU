@@ -21,9 +21,6 @@ Makefile
 *.vcxproj.filters
 *.sln
 
-# Model weights
-model/backup/*.weights
-
 # IDE specific files
 .vs/
 *.user

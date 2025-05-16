@@ -38,5 +38,4 @@ cmake --build . --config Release
 
 ## 注意事項
 
-- 模型權重檔案需要另外下載
 - 請確保有足夠的 GPU 記憶體 
