@@ -8,7 +8,6 @@
 <img src="image/example3.jpg" alt="含有標籤的大圖">
 <img src="image/example4.jpg" alt="含有標籤的大圖">
 
-
 ### 標籤
 <div style="display: flex; gap: 10px;">
     <img src="image/example1_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
@@ -16,7 +15,6 @@
     <img src="image/example3_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
     <img src="image/example4_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
 </div>
-
 
 ## 功能特點
 
@@ -27,7 +25,6 @@
 - 自動分割大圖進行處理
 - 多執行緒處理
 
-
 ## 系統需求
 
 - Windows 10 或更新版本
@@ -35,7 +32,6 @@
 - CMake 3.0 或更新版本
 - Qt 6.x
 - OpenCV
-
 
 ## 建置說明
 
@@ -48,14 +44,12 @@ cmake ..
 cmake --build . --config Release
 ```
 
-
 ## 使用說明
 
 1. 執行程式，初次執行時會提示要先於settings.ini設定檢驗大圖所在路徑
 2. 選擇要檢查的卷號
 3. 選擇輸出目錄
 4. 點擊 "Check" 開始處理
-
 
 ## 注意事項
 
