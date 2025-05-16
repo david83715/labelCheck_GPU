@@ -3,17 +3,17 @@
 這是一個基於 YOLOv4-tiny 的標籤檢測工具，使用 GPU 加速進行影像處理。
 
 ### 含有標籤的大圖
-<img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example1.jpg" alt="含有標籤的大圖">
-<img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example2.jpg" alt="含有標籤的大圖">
-<img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example3.jpg" alt="含有標籤的大圖">
-<img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example4.jpg" alt="含有標籤的大圖">
+<img src="./image/example1.jpg" alt="含有標籤的大圖">
+<img src="./image/example2.jpg" alt="含有標籤的大圖">
+<img src="./image/example3.jpg" alt="含有標籤的大圖">
+<img src="./image/example4.jpg" alt="含有標籤的大圖">
 
 ### 標籤
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example1_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
-    <img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example2_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
-    <img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example3_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
-    <img src="https://github.com/david83715/labelCheck_GPU/blob/main/image/example4_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
+    <img src="./image/example1_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
+    <img src="./image/example2_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
+    <img src="./image/example3_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
+    <img src="./image/example4_cut.jpg" alt="標籤" style="width: 200px; height: 200px;">
 </div>
 
 ## 功能特點
