@@ -2,6 +2,12 @@
 
 這是一個基於 YOLOv4-tiny 的標籤檢測工具，使用 GPU 加速進行影像處理。
 
+### 含有標籤的大圖
+![大圖中的標籤樣式](example\example1.jpg)
+
+### 標籤
+![標籤](example\example1_cut.jpg)
+
 ## 功能特點
 
 - 使用 YOLOv4-tiny 進行物件檢測
