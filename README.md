@@ -39,6 +39,6 @@ cmake --build . --config Release
 
 ## 注意事項
 
-- 需先配置並編譯OpenCV與darknet，步驟可參考 https://github.com/hank-ai/darknet.git 或是 darknetBuildStep.md
+- 需先配置並編譯OpenCV與darknet，步驟可參考 https://github.com/hank-ai/darknet.git 或是 [darknetBuildStep.md](darknetBuildStep.md)
 - 需有安裝CUDA與Cudnn等運行GPU的所需的環境
 - 請確保有足夠的 GPU 記憶體
