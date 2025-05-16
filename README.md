@@ -3,10 +3,10 @@
 這是一個基於 YOLOv4-tiny 的標籤檢測工具，使用 GPU 加速進行影像處理。
 
 ### 含有標籤的大圖
-![大圖中的標籤樣式](example\example1.jpg)
+![大圖中的標籤樣式](https://github.com/david83715/labelCheck_GPU/blob/main/image/example1.jpg)
 
 ### 標籤
-![標籤](example\example1_cut.jpg)
+![標籤](https://github.com/david83715/labelCheck_GPU/blob/main/image/example1_cut.jpg)
 
 ## 功能特點
 
